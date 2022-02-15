@@ -1,3 +1,3 @@
 # Terminal2
-Trabalho para o curso de SO.
+Trabalho para o curso de SO.\n
 Material auxiliar: https://brennan.io/2015/01/16/write-a-shell-in-c/
